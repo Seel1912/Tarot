@@ -39,10 +39,19 @@ button {
   border-radius: 4px;
   font-size: 18px;
   cursor: pointer;
+  box-shadow: 0 5px 20px 0 #ee3397;
+  transition: ease-in-out 0.2s;
 }
 
 button:hover {
   background-color: #ff0088;
+  box-shadow: 0 0px 50px 0 #ee3397;
+  color: #333;
+}
+button:active{
+  background-color: #ff0088;
+  box-shadow: 0 0px 50px 0 #ee3397;
+  color: #333;
 }
 
 #card-display {
