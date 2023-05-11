@@ -116,7 +116,7 @@ const tarotCards = [
     {
         id: 19,
         name: "The Sun",
-        image: "./Img/19.png",
+        image: "./Img/19.jpg",
         description: "Khi giải bài, bạn sẽ hiểu lá bài số 19 nếu bạn tưởng tượng mình là Thần Mặt trời. Bạn nghĩ và cảm thấy thế nào? Bạn hoàn toàn cảm thấy tự tin. Bạn không tự mãn mà là hoàn toàn tin tưởng vào sức mạnh của mình. Bạn có năng lượng vô hạn và sức khỏe tràn trề. Bạn có sự vĩ đại xung quanh mình và cảm thấy bản thân mình vượt trội một cách xuất sắc. Cuối cùng, bạn thấy và hiểu hết mọi thứ đang diễn ra bên trong quả cầu pha lê của mình. Khi bạn thấy lá bài này, hãy biết rằng bạn sẽ thành công với những việc bạn làm. Đây là lúc để bản thân mình tỏa sáng."
     },
     {
